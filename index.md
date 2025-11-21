@@ -4,19 +4,34 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at **Tsinghua University** working on robot learning, with a focus on data-driven whole-body control, embodied intelligence, and safe reinforcement learning.
+My research spans the intersection of control theory, machine learning, and robot locomotion, aiming to build generalizable, efficient, and physically consistent motion control systems for diverse robotic platforms.
 
-## Research Interests
+### Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Robot Learning: whole-body control, reinforcement learning, safe exploration, dataset-constrained RL
+
+Locomotion & Motion Control: latent-to-latent policy transfer, extreme locomotion, motion tracking and retargeting
+
+Control & Optimization: MPC, Lagrangian neural networks, differentiable control
+
+Simulation & Embodied Systems: IsaacLab, motion generation, trajectory optimization
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+[2025] Transferable Latent-to-Latent Locomotion Policy accepted to IROS 2025.
+
+[2025] Canonical Form of Datatic Description in Control Systems accepted to ACC 2025.
+
+[2025] Learn a Safe and Efficient MPC with Lagrange Multiplier Neural Network accepted to TCST.
+
+[2025] A Path-Driven Probabilistic Framework for Abnormal Behavior Simulation accepted to IV 2025.
+
+[2025] Released TrackerLab, a unified whole-body control framework built on IsaacLab.
+
+[2024] Presented DCRL: Dataset-Constrained Reinforcement Learning in Tsinghua’s Advanced ML course.
+
+[2023] Published Adaptive Device Sampling and Deadline Determination in Journal of Cloud Computing.
 
 {% include_relative _includes/publications.md %}
 
