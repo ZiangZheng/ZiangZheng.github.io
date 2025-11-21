@@ -1,80 +1,81 @@
 main:
-- title: Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning
-  authors: Deyu Zhang, Wang Sun, Zi-Ang Zheng, Wenxin Chen, Shiwen He
-  conference_short: JCC
-  conference: Journal of Cloud Computing, 2023.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
 
-- title: Canonical Form of Datatic Description in Control Systems
-  authors: Guojian Zhan, Ziang Zheng, Shengbo Eben Li
-  conference_short: ACC
-  conference: American Control Conference <strong>(ACC)</strong>, 2025.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
+    authors: Deyu Zhang, Wang Sun, Zi-Ang Zheng, Wenxin Chen, Shiwen He
+    conference_short: JCC
+    conference: Journal of Cloud Computing, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-- title: Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots
-  authors: Ziang Zheng, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
-  conference_short: IROS
-  conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "Canonical Form of Datatic Description in Control Systems"
+    authors: Guojian Zhan, Ziang Zheng, Shengbo Eben Li
+    conference_short: ACC
+    conference: American Control Conference <strong>(ACC)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-- title: DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration
-  authors: Ziang Zheng
-  conference_short: AML
-  conference: Tsinghua University Course: Advanced Machine Learning, 2024.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
+    authors: Ziang Zheng, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-- title: Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion
-  authors: Ziang Zheng, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
-  conference_short: arXiv
-  conference: arXiv preprint arXiv:2507.01243, 2025.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration"
+    authors: Ziang Zheng
+    conference_short: AML
+    conference: "Tsinghua University Course: Advanced Machine Learning, 2024."
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-- title: A Path-Driven Probabilistic Framework for Simulating Abnormal Behavior in Autonomous Driving Scenarios
-  authors: Jie Xiong, Chen Chen, Haoyu Gao, Teh Jing Lin, Zi'ang Zheng, Bo Cheng, Shengbo Eben Li
-  conference_short: IV
-  conference: IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, 2025.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
+    authors: Ziang Zheng, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2507.01243, 2025.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-- title: Learn a Safe and Efficient Model Predictive Controller with Lagrange Multiplier Neural Network
-  authors: Guojian Zhan, Ziang Zheng, Feihong Zhang, Jingliang Duan, Shengbo Eben Li, Songan Zhang, H. Eric Tseng
-  conference_short: TCST
-  conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2025.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/MrGiovanni/ContinualLearning
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "A Path-Driven Probabilistic Framework for Simulating Abnormal Behavior in Autonomous Driving Scenarios"
+    authors: Jie Xiong, Chen Chen, Haoyu Gao, Teh Jing Lin, Zi'ang Zheng, Bo Cheng, Shengbo Eben Li
+    conference_short: IV
+    conference: IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-- title: TrackerLab: One Step Unify IsaacLab with Multi-Mode Whole-Body Control
-  authors: Ziang Zheng
-  conference_short: GitHub
-  conference: GitHub Repository, 2025.
-  pdf: https://arxiv.org/pdf/2306.00988.pdf
-  code: https://github.com/Renforce-Dynamics/trackerLab
-  bibtex: https://bib.yliu.me/MICCAI23.txt
-  image: ./assets/img/teaser_example_2.png
-  notes: Early Accept
+  - title: "Learn a Safe and Efficient Model Predictive Controller with Lagrange Multiplier Neural Network"
+    authors: Guojian Zhan, Ziang Zheng, Feihong Zhang, Jingliang Duan, Shengbo Eben Li, Songan Zhang, H. Eric Tseng
+    conference_short: TCST
+    conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
+
+  - title: "TrackerLab: One Step Unify IsaacLab with Multi-Mode Whole-Body Control"
+    authors: Ziang Zheng
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/Renforce-Dynamics/trackerLab
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
