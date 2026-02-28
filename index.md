@@ -16,12 +16,12 @@ My research spans the intersection of control theory, machine learning, and robo
 
 ## News
 
-- [2025] Transferable Latent-to-Latent Locomotion Policy accepted to IROS 2025.
-- [2025] Canonical Form of Datatic Description in Control Systems accepted to ACC 2025.
-- [2025] Learn a Safe and Efficient MPC with Lagrange Multiplier Neural Network accepted to TCST.
-- [2025] Released TrackerLab, a unified whole-body control framework built on IsaacLab.
-- [2024] Presented DCRL: Dataset-Constrained Reinforcement Learning in Tsinghua’s Advanced ML course.
-- [2023] Published Adaptive Device Sampling and Deadline Determination in Journal of Cloud Computing.
+- [2025] `Transferable Latent-to-Latent Locomotion Policy` accepted to IROS 2025.
+- [2025] `Canonical Form of Datatic Description in Control Systems` accepted to ACC 2025.
+- [2025] `Learn a Safe and Efficient MPC with Lagrange Multiplier Neural Network` accepted to TCST.
+- [2025] Released `TrackerLab, a unified whole-body control framework built on IsaacLab`.
+- [2024] Presented `DCRL: Dataset-Constrained Reinforcement Learning` in Tsinghua’s Advanced ML course.
+- [2023] `Adaptive Device Sampling and Deadline Determination` accepted to JCC.
 
 {% include_relative _includes/publications.md %}
 

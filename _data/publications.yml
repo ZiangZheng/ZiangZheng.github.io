@@ -1,5 +1,15 @@
 main:
 
+  - title: "beyondAMP: One-Step Integration of AMP into IsaacLab"
+    authors: Ziang Zheng
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://github.com/Renforce-Dynamics/beyondAMP
+    code: https://github.com/Renforce-Dynamics/beyondAMP
+    bibtex: ./assets/files/bibtex/zheng2025beyondamp.bib
+    image: ./assets/img/renforce-logo.png
+    notes: Open Source
+
   - title: "Task-Centric Policy Optimization from Misaligned Motion Priors"
     authors: Ziang Zheng, Kai Feng, Yi Nie, Shentao Qin
     conference_short: arXiv
