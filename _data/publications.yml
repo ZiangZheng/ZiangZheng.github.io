@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2601.19411.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2026task.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Under Review
 
   - title: "TrackerLab: One Step Unify IsaacLab with Multi-Mode Whole-Body Control"
@@ -17,7 +17,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics/trackerLab
     bibtex: ./assets/files/bibtex/zheng2025trackerlab.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Open Source
 
   - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
@@ -27,7 +27,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2025jump.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Under Review
 
   - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
@@ -37,7 +37,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2025transferable.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Accepted
 
   - title: "Learn a Safe and Efficient Model Predictive Controller with Lagrange Multiplier Neural Network"
@@ -47,7 +47,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zhan2025learn.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Early Accept
 
   - title: "Canonical Form of Datatic Description in Control Systems"
@@ -57,7 +57,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics/trackerLab
     bibtex: ./assets/files/bibtex/zhan2025canonical.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Accepted
 
   - title: "DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration"
@@ -67,7 +67,7 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2024dcrl.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Accepted
 
   - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
@@ -77,10 +77,8 @@ main:
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zhang2023adaptive.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    image: ./assets/img/renforce-logo.png
     notes: Accepted
-
-
 
   # - title: "A Path-Driven Probabilistic Framework for Simulating Abnormal Behavior in Autonomous Driving Scenarios"
   #   authors: Jie Xiong, Chen Chen, Haoyu Gao, Teh Jing Lin, Zi'ang Zheng, Bo Cheng, Shengbo Eben Li
@@ -89,7 +87,5 @@ main:
   #   pdf: https://arxiv.org/pdf/2507.01243.pdf
   #   code: https://github.com/Renforce-Dynamics
   #   bibtex: ./assets/files/bibtex/xiong2025path.bib
-  #   image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+  #   image: ./assets/img/renforce-logo.png
   #   notes: Accepted
-
-
