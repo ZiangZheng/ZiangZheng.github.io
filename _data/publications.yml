@@ -20,13 +20,23 @@ main:
     image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
     notes: Open Source
 
-  - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
-    authors: Deyu Zhang, Wang Sun, Zi-Ang Zheng, Wenxin Chen, Shiwen He
-    conference_short: JCC
-    conference: Journal of Cloud Computing, 2023.
+  - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
+    authors: Ziang Zheng, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2507.01243, 2025.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zhang2023adaptive.bib
+    bibtex: ./assets/files/bibtex/zheng2025jump.bib
+    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
+    notes: Under Review
+
+  - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
+    authors: Ziang Zheng, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2507.01243.pdf
+    code: https://github.com/Renforce-Dynamics
+    bibtex: ./assets/files/bibtex/zheng2025transferable.bib
     image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
     notes: Accepted
 
@@ -50,16 +60,6 @@ main:
     image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
     notes: Accepted
 
-  - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
-    authors: Ziang Zheng, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
-    conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zheng2025transferable.bib
-    image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
-    notes: Accepted
-
   - title: "DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration"
     authors: Ziang Zheng
     conference_short: AML
@@ -70,15 +70,17 @@ main:
     image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
     notes: Accepted
 
-  - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
-    authors: Ziang Zheng, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2507.01243, 2025.
+  - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
+    authors: Deyu Zhang, Wang Sun, Zi-Ang Zheng, Wenxin Chen, Shiwen He
+    conference_short: JCC
+    conference: Journal of Cloud Computing, 2023.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zheng2025jump.bib
+    bibtex: ./assets/files/bibtex/zhang2023adaptive.bib
     image: https://github.com/ZiangZheng/ZiangZheng/blob/main/pics/head_bar.jpg
-    notes: Under Review
+    notes: Accepted
+
+
 
   # - title: "A Path-Driven Probabilistic Framework for Simulating Abnormal Behavior in Autonomous Driving Scenarios"
   #   authors: Jie Xiong, Chen Chen, Haoyu Gao, Teh Jing Lin, Zi'ang Zheng, Bo Cheng, Shengbo Eben Li
