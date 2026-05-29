@@ -1,42 +1,5 @@
 main:
 
-  - title: "SMP: Score-Distilled Diffusion Motion Priors for Stylized Whole-Body Humanoid Control"
-    authors: <strong>Ziang Zheng</strong>, et al.
-    conference_short: CoRL
-    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2026.
-    pdf: https://github.com/Renforce-Dynamics
-    code: https://github.com/Renforce-Dynamics
-    image: ./assets/img/renforce-logo.png
-    notes: Under Review (First Author)
-
-  - title: "PBMP: Pretrain-Bias Motion Prior for Efficient Adversarial Imitation"
-    authors: <strong>Ziang Zheng</strong>, et al.
-    conference_short: RA-L
-    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026.
-    pdf: https://github.com/Renforce-Dynamics
-    code: https://github.com/Renforce-Dynamics/beyondAMP
-    image: ./assets/img/renforce-logo.png
-    notes: Under Review (First Author)
-
-  - title: "Task-Centric Policy Optimization from Misaligned Motion Priors"
-    authors: <strong>Ziang Zheng</strong>*, Kai Feng*, Yi Nie*, Shentao Qin
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
-    pdf: https://github.com/Renforce-Dynamics
-    code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zheng2026task.bib
-    image: ./assets/img/renforce-logo.png
-    notes: Under Review (Co-First Author)
-
-  - title: "M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking"
-    authors: et al., <strong>Ziang Zheng</strong>*
-    conference_short: RA-L
-    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026.
-    pdf: https://github.com/Renforce-Dynamics/MultiModalWBC
-    code: https://github.com/Renforce-Dynamics/MultiModalWBC
-    image: ./assets/img/renforce-logo.png
-    notes: Under Review (Co-First Author)
-
   - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
     authors: <strong>Ziang Zheng</strong>, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
     conference_short: RA-L
@@ -136,9 +99,3 @@ main:
     page: https://renforce-dynamics.github.io/soccerWeber/
     image: ./assets/img/renforce-logo.png
     notes: Open Source
-
-  # - title: "DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration"
-  #   authors: <strong>Ziang Zheng</strong>
-  #   conference_short: AML
-  #   conference: "Tsinghua University Course: Advanced Machine Learning, 2024."
-  #   notes: Course Project

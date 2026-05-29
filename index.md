@@ -6,7 +6,6 @@ layout: homepage
 
 I am an MPhil student at **Tsinghua University** (School of Vehicle and Mobility, iDlab) working on **full-stack humanoid learning**: scalable RL for embodied agents, foundation behavior priors (adversarial / diffusion / generative), predictive world models, and closed-loop sim-to-real on **Unitree G1**.
 I am the founder of [**Renforce Dynamics**](https://github.com/Renforce-Dynamics) (20+ open-source repos, 1,100+ stars) and gait group lead of the THMOS humanoid soccer team.
-I am also a part-time researcher at **XVirobotics** under Flood Sung, working on humanoid foundation behavior models.
 
 ### Research Interests
 
@@ -19,12 +18,6 @@ I am also a part-time researcher at **XVirobotics** under Flood Sung, working on
 
 ## News
 
-- [2026-05] `SMP: Score-Distilled Diffusion Motion Priors for Stylized Whole-Body Humanoid Control` submitted to **CoRL 2026** (First Author).
-- [2026-05] `PBMP: Pretrain-Bias Motion Prior` submitted to **IEEE RA-L** (First Author) — ~10× speedup over AMP, zero-shot sim-to-real on Unitree G1.
-- [2026-04] `TCMP: Task-Centric Policy Optimization from Misaligned Motion Priors` under review at **ICRA** (Co-First Author).
-- [2026-03] `M3imic: Versatile Whole-Body Controller for Multimodal Motion Mimicking` submitted to **IEEE RA-L** (Co-First Author).
-- [2025-12] Joined **XVirobotics** as a part-time researcher under Flood Sung, working on humanoid foundation behavior models.
-- [2025-09] `Jump-Start RL with Self-Evolving Priors for Extreme Monopedal Locomotion` submitted to **IEEE RA-L** (First Author).
 - [2025-07] Released [`TrackerLab`](https://github.com/Renforce-Dynamics/trackerLab) — IsaacLab extension for multi-mode whole-body tracking.
 - [2025-06] `Transferable Latent-to-Latent Locomotion Policy` accepted to **IROS 2025** (First Author).
 - [2025-04] `Canonical Form of Datatic Description in Control Systems` accepted to **ACC 2025**.
