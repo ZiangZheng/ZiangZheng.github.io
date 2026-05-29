@@ -1,87 +1,84 @@
 main:
 
-  - title: "beyondAMP: One-Step Integration of AMP into IsaacLab"
-    authors: Ziang Zheng
-    conference_short: GitHub
-    conference: GitHub Repository, 2025.
-    pdf: https://github.com/Renforce-Dynamics/beyondAMP
-    code: https://github.com/Renforce-Dynamics/beyondAMP
-    bibtex: ./assets/files/bibtex/zheng2025beyondamp.bib
+  - title: "SMP: Score-Distilled Diffusion Motion Priors for Stylized Whole-Body Humanoid Control"
+    authors: <strong>Ziang Zheng</strong>, et al.
+    conference_short: CoRL
+    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2026.
+    pdf: https://github.com/Renforce-Dynamics
+    code: https://github.com/Renforce-Dynamics
     image: ./assets/img/renforce-logo.png
-    notes: Open Source
+    notes: Under Review (First Author)
+
+  - title: "PBMP: Pretrain-Bias Motion Prior for Efficient Adversarial Imitation"
+    authors: <strong>Ziang Zheng</strong>, et al.
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026.
+    pdf: https://github.com/Renforce-Dynamics
+    code: https://github.com/Renforce-Dynamics/beyondAMP
+    image: ./assets/img/renforce-logo.png
+    notes: Under Review (First Author)
 
   - title: "Task-Centric Policy Optimization from Misaligned Motion Priors"
-    authors: Ziang Zheng, Kai Feng, Yi Nie, Shentao Qin
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2601.19411, 2026.
-    pdf: https://arxiv.org/pdf/2601.19411.pdf
+    authors: <strong>Ziang Zheng</strong>*, Kai Feng*, Yi Nie*, Shentao Qin
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
+    pdf: https://github.com/Renforce-Dynamics
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2026task.bib
     image: ./assets/img/renforce-logo.png
-    notes: Under Review
+    notes: Under Review (Co-First Author)
 
-  - title: "TrackerLab: One Step Unify IsaacLab with Multi-Mode Whole-Body Control"
-    authors: Ziang Zheng
-    conference_short: GitHub
-    conference: GitHub Repository, 2025.
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics/trackerLab
-    bibtex: ./assets/files/bibtex/zheng2025trackerlab.bib
+  - title: "M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking"
+    authors: et al., <strong>Ziang Zheng</strong>*
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026.
+    pdf: https://github.com/Renforce-Dynamics/MultiModalWBC
+    code: https://github.com/Renforce-Dynamics/MultiModalWBC
     image: ./assets/img/renforce-logo.png
-    notes: Open Source
+    notes: Under Review (Co-First Author)
 
   - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
-    authors: Ziang Zheng, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2507.01243, 2025.
+    authors: <strong>Ziang Zheng</strong>, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2025jump.bib
     image: ./assets/img/renforce-logo.png
-    notes: Under Review
+    notes: Under Review (First Author)
 
   - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
-    authors: Ziang Zheng, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
+    authors: <strong>Ziang Zheng</strong>, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zheng2025transferable.bib
     image: ./assets/img/renforce-logo.png
-    notes: Accepted
+    notes: Accepted (First Author)
 
   - title: "Learn a Safe and Efficient Model Predictive Controller with Lagrange Multiplier Neural Network"
-    authors: Guojian Zhan, Ziang Zheng, Feihong Zhang, Jingliang Duan, Shengbo Eben Li, Songan Zhang, H. Eric Tseng
+    authors: Guojian Zhan, <strong>Ziang Zheng</strong>, Feihong Zhang, Jingliang Duan, Shengbo Eben Li, Songan Zhang, H. Eric Tseng
     conference_short: TCST
     conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics
     bibtex: ./assets/files/bibtex/zhan2025learn.bib
     image: ./assets/img/renforce-logo.png
-    notes: Early Accept
+    notes: Accepted (Co-First Author)
 
   - title: "Canonical Form of Datatic Description in Control Systems"
-    authors: Guojian Zhan, Ziang Zheng, Shengbo Eben Li
+    authors: Guojian Zhan, <strong>Ziang Zheng</strong>, Shengbo Eben Li
     conference_short: ACC
     conference: American Control Conference <strong>(ACC)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
     code: https://github.com/Renforce-Dynamics/trackerLab
     bibtex: ./assets/files/bibtex/zhan2025canonical.bib
     image: ./assets/img/renforce-logo.png
-    notes: Accepted
-
-  - title: "DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration"
-    authors: Ziang Zheng
-    conference_short: AML
-    conference: "Tsinghua University Course: Advanced Machine Learning, 2024."
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zheng2024dcrl.bib
-    image: ./assets/img/renforce-logo.png
-    notes: Accepted
+    notes: Accepted (Co-First Author)
 
   - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
-    authors: Deyu Zhang, Wang Sun, Zi-Ang Zheng, Wenxin Chen, Shiwen He
+    authors: Deyu Zhang, Wang Sun, <strong>Zi-Ang Zheng</strong>, Wenxin Chen, Shiwen He
     conference_short: JCC
     conference: Journal of Cloud Computing, 2023.
     pdf: https://arxiv.org/pdf/2507.01243.pdf
@@ -90,12 +87,58 @@ main:
     image: ./assets/img/renforce-logo.png
     notes: Accepted
 
-  # - title: "A Path-Driven Probabilistic Framework for Simulating Abnormal Behavior in Autonomous Driving Scenarios"
-  #   authors: Jie Xiong, Chen Chen, Haoyu Gao, Teh Jing Lin, Zi'ang Zheng, Bo Cheng, Shengbo Eben Li
-  #   conference_short: IV
-  #   conference: IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, 2025.
-  #   pdf: https://arxiv.org/pdf/2507.01243.pdf
-  #   code: https://github.com/Renforce-Dynamics
-  #   bibtex: ./assets/files/bibtex/xiong2025path.bib
-  #   image: ./assets/img/renforce-logo.png
-  #   notes: Accepted
+  # ===== Open-Source Infrastructure =====
+
+  - title: "beyondAMP: A Unified AMP Framework Supporting Arbitrary Task–Prior Combinations"
+    authors: <strong>Ziang Zheng</strong>
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://github.com/Renforce-Dynamics/beyondAMP
+    code: https://github.com/Renforce-Dynamics/beyondAMP
+    bibtex: ./assets/files/bibtex/zheng2025beyondamp.bib
+    image: ./assets/img/renforce-logo.png
+    notes: Open Source
+
+  - title: "TrackerLab: One-Step Unify IsaacLab with Multi-Mode Whole-Body Control"
+    authors: <strong>Ziang Zheng</strong>
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://github.com/Renforce-Dynamics/trackerLab
+    code: https://github.com/Renforce-Dynamics/trackerLab
+    bibtex: ./assets/files/bibtex/zheng2025trackerlab.bib
+    image: ./assets/img/renforce-logo.png
+    notes: Open Source
+
+  - title: "GenesisLab: Lightweight Robot Learning Framework for Personal-PC-Scale Training"
+    authors: <strong>Ziang Zheng</strong>
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://github.com/Renforce-Dynamics/genesislab
+    code: https://github.com/Renforce-Dynamics/genesislab
+    image: ./assets/img/renforce-logo.png
+    notes: Open Source
+
+  - title: "MuGS: MuJoCo Gaussian Splatting for Photorealistic Sim-to-Real Rendering"
+    authors: <strong>Ziang Zheng</strong>
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://github.com/Renforce-Dynamics/MuGS
+    code: https://github.com/Renforce-Dynamics/MuGS
+    image: ./assets/img/renforce-logo.png
+    notes: Open Source
+
+  - title: "SoccerLab / IsaacNPC: Multi-Agent Parallel Simulation for Humanoid Soccer"
+    authors: <strong>Ziang Zheng</strong>
+    conference_short: GitHub
+    conference: GitHub Repository, 2025.
+    pdf: https://renforce-dynamics.github.io/soccerWeber/
+    code: https://github.com/Renforce-Dynamics/soccerLab
+    page: https://renforce-dynamics.github.io/soccerWeber/
+    image: ./assets/img/renforce-logo.png
+    notes: Open Source
+
+  # - title: "DCRL: Dataset-Constrained Reinforcement Learning for Safe In-Distribution Exploration"
+  #   authors: <strong>Ziang Zheng</strong>
+  #   conference_short: AML
+  #   conference: "Tsinghua University Course: Advanced Machine Learning, 2024."
+  #   notes: Course Project
