@@ -1,5 +1,66 @@
 main:
 
+  # ===== Accepted =====
+
+  - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
+    authors: <strong>Ziang Zheng</strong>, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2503.17626.pdf
+    code: https://github.com/Renforce-Dynamics
+    bibtex: ./assets/files/bibtex/zheng2025transferable.bib
+    image: ./assets/img/renforce-logo.png
+    notes: <strong>Accepted</strong> (First Author)
+
+  - title: "M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking"
+    authors: Zuxing Lu, <strong>Ziang Zheng</strong>, Yao Lyu, Jingyu Liu, Feihong Zhang, Song Lu, Xin Yuan, Changyin Sun, Xingxing Zuo, Shengbo Eben Li
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2606.04829.pdf
+    code: https://github.com/Renforce-Dynamics/MultiModalWBC
+    bibtex: ./assets/files/bibtex/zheng2025m3imic.bib
+    image: ./assets/img/renforce-logo.png
+    notes: <strong>Accepted</strong> (Co-First Author)
+
+  - title: "Learn a Safe and Efficient Model Predictive Controller with Lagrange Multiplier Neural Network"
+    authors: Guojian Zhan, <strong>Ziang Zheng</strong>, Feihong Zhang, Jingliang Duan, Shengbo Eben Li, Songan Zhang, H. Eric Tseng
+    conference_short: TCST
+    conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2025.
+    code: https://github.com/Renforce-Dynamics
+    bibtex: ./assets/files/bibtex/zhan2025learn.bib
+    image: ./assets/img/renforce-logo.png
+    notes: <strong>Accepted</strong> (Co-First Author)
+
+  - title: "Canonical Form of Datatic Description in Control Systems"
+    authors: Guojian Zhan, <strong>Ziang Zheng</strong>, Shengbo Eben Li
+    conference_short: ACC
+    conference: American Control Conference <strong>(ACC)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2403.01768.pdf
+    code: https://github.com/Renforce-Dynamics/trackerLab
+    bibtex: ./assets/files/bibtex/zhan2025canonical.bib
+    image: ./assets/img/renforce-logo.png
+    notes: <strong>Accepted</strong> (Co-First Author)
+
+  - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
+    authors: Deyu Zhang, Wang Sun, <strong>Zi-Ang Zheng</strong>, Wenxin Chen, Shiwen He
+    conference_short: JCC
+    conference: Journal of Cloud Computing, 2023.
+    bibtex: ./assets/files/bibtex/zhang2023adaptive.bib
+    image: ./assets/img/renforce-logo.png
+    notes: <strong>Accepted</strong>
+
+  # ===== Under Review =====
+
+  - title: "Task-Centric Policy Optimization from Misaligned Motion Priors"
+    authors: <strong>Ziang Zheng</strong>, Kai Feng, Yi Nie, Shentao Qin
+    conference_short: Preprint
+    conference: Manuscript Under Review, 2025.
+    pdf: https://arxiv.org/pdf/2601.19411.pdf
+    code: https://github.com/Renforce-Dynamics
+    bibtex: ./assets/files/bibtex/zheng2026task.bib
+    image: ./assets/img/renforce-logo.png
+    notes: Under Review (First Author)
+
   - title: "Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion"
     authors: <strong>Ziang Zheng</strong>, Guojian Zhan, Shiqi Liu, Yao Lyu, Tao Zhang, Shengbo Eben Li
     conference_short: RA-L
@@ -9,46 +70,6 @@ main:
     bibtex: ./assets/files/bibtex/zheng2025jump.bib
     image: ./assets/img/renforce-logo.png
     notes: Under Review (First Author)
-
-  - title: "Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots"
-    authors: <strong>Ziang Zheng</strong>, Guojian Zhan, Bin Shuai, Shengtao Qin, Jiangtao Li, Tao Zhang, Shengbo Eben Li
-    conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zheng2025transferable.bib
-    image: ./assets/img/renforce-logo.png
-    notes: Accepted (First Author)
-
-  - title: "Learn a Safe and Efficient Model Predictive Controller with Lagrange Multiplier Neural Network"
-    authors: Guojian Zhan, <strong>Ziang Zheng</strong>, Feihong Zhang, Jingliang Duan, Shengbo Eben Li, Songan Zhang, H. Eric Tseng
-    conference_short: TCST
-    conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zhan2025learn.bib
-    image: ./assets/img/renforce-logo.png
-    notes: Accepted (Co-First Author)
-
-  - title: "Canonical Form of Datatic Description in Control Systems"
-    authors: Guojian Zhan, <strong>Ziang Zheng</strong>, Shengbo Eben Li
-    conference_short: ACC
-    conference: American Control Conference <strong>(ACC)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics/trackerLab
-    bibtex: ./assets/files/bibtex/zhan2025canonical.bib
-    image: ./assets/img/renforce-logo.png
-    notes: Accepted (Co-First Author)
-
-  - title: "Adaptive Device Sampling and Deadline Determination for Cloud-Based Heterogeneous Federated Learning"
-    authors: Deyu Zhang, Wang Sun, <strong>Zi-Ang Zheng</strong>, Wenxin Chen, Shiwen He
-    conference_short: JCC
-    conference: Journal of Cloud Computing, 2023.
-    pdf: https://arxiv.org/pdf/2507.01243.pdf
-    code: https://github.com/Renforce-Dynamics
-    bibtex: ./assets/files/bibtex/zhang2023adaptive.bib
-    image: ./assets/img/renforce-logo.png
-    notes: Accepted
 
   # ===== Open-Source Infrastructure =====
 
